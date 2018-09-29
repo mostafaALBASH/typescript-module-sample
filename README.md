@@ -5,7 +5,7 @@ best typescript module ever
 ## install
 
 1. open cmd
-2. type `tsc` path of `./src/`
+2. type `tsc` path of `./src/`  
 
 ## run 
 1. open dist dir
